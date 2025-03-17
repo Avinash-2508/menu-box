@@ -9,7 +9,7 @@ body{
 }
 .slide{
     height: 100%;
-    width: 180px;
+    width: 181px;
     position: absolute;
     background-color: #fff;
     transition: 0.5s ease;
